@@ -1,0 +1,1 @@
+select continent, population from country
