@@ -1,1 +1,1 @@
-select * 
+select capital from country order by capital desc
