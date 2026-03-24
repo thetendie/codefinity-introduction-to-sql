@@ -1,0 +1,1 @@
+select id, name, population from country 
