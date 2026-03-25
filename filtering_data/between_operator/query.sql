@@ -1,0 +1,1 @@
+select name, capital, population from country where population between 6000000 and 6000000
